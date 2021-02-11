@@ -19,7 +19,7 @@ body {
     --footer-height: 25px;
     
     font-family: 'Titillium Web', sans-serif;
-    background-color: var(--color2);
+    background-color: purple;
 }
 
 main {
@@ -117,3 +117,8 @@ footer {
     }
     
   }
+  button {
+      border-radius: 20px;
+      background-color: lightpink
+  }
+  
